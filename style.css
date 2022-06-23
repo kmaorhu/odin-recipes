@@ -1,0 +1,12 @@
+.recipe-photo {
+    height: auto;
+    width: 300px;
+}
+
+.ingredient-box {
+    background-color: rgb(255, 255, 166);
+}
+
+#main-title {
+    text-align: center;
+}
